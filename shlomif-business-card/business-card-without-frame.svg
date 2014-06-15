@@ -17,7 +17,10 @@
    inkscape:version="0.48.4 r9939"
    version="1.0"
    sodipodi:docname="business-card-without-frame.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/shlomif/Docs/Images/Self/business-card/git/shlomif-business-card/business-card-without-frame.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -52,6 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,7 +91,7 @@
          sodipodi:role="line"
          x="167.01343"
          y="78.357697"
-         id="tspan2992">Humorist, Writer, &amp; Software Geek</tspan></text>
+         id="tspan2992">Humorist, Writer, and Software Geek</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times"
