@@ -1,0 +1,11 @@
+Shlomi Fish’s Business Card Repository
+======================================
+Shlomi Fish <shlomif@cpan.org>
+:Date: 2019-11-24
+:Revision: $Id$
+
+[id="about"]
+About:
+------
+
+Images used to prepare Shlomi Fish’s Business Card

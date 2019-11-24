@@ -1,7 +1,0 @@
-=encoding utf8
-
-=head1 Shlomi Fish’s Business Card Repository
-
-Images used to prepare Shlomi Fish’s Business Card.
-
-=cut
