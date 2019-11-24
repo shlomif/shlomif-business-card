@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,43 +8,45 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="333.07086"
-   height="191.33858"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
-   version="1.0"
-   sodipodi:docname="business-card-without-frame.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/shlomif/Docs/Images/Self/business-card/git/shlomif-business-card/business-card-without-frame.png"
+   viewBox="0 0 333.07086 191.33858"
+   inkscape:export-ydpi="150"
    inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
+   inkscape:export-filename="/home/shlomif/Docs/Images/Self/business-card/git/shlomif-business-card/business-card-without-frame.png"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docname="business-card-without-frame.svg"
+   version="1.0"
+   inkscape:version="1.0beta1 (a4ee55bc41, 2019-11-15)"
+   sodipodi:version="0.32"
+   id="svg2"
+   height="204.09448"
+   width="355.27557">
   <defs
      id="defs4" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     gridtolerance="10000"
-     guidetolerance="10"
-     objecttolerance="10"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.6462963"
-     inkscape:cx="141.14141"
-     inkscape:cy="93.623849"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     width="94mm"
-     height="54mm"
-     units="mm"
-     inkscape:window-width="922"
-     inkscape:window-height="618"
-     inkscape:window-x="351"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="0"
      showgrid="false"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="0"
+     inkscape:window-x="351"
+     inkscape:window-height="618"
+     inkscape:window-width="922"
+     units="mm"
+     height="54mm"
+     width="94mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="93.623849"
+     inkscape:cx="141.14141"
+     inkscape:zoom="1.6462963"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     objecttolerance="10"
+     guidetolerance="10"
+     gridtolerance="10000"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -60,74 +60,77 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times"
-       x="89.746185"
-       y="49.808773"
        id="text3155"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3157"
+       y="49.808773"
+       x="89.746185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1.25"
+         y="49.808773"
          x="89.746185"
-         y="49.808773">Shlomi Fish</tspan></text>
+         id="tspan3157"
+         sodipodi:role="line">Shlomi Fish</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times"
-       x="167.01343"
-       y="94.357697"
-       id="text3159"
-       sodipodi:linespacing="125%"
+       inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"><tspan
-         sodipodi:role="line"
-         x="167.01343"
+       id="text3159"
+       y="94.357697"
+       x="167.01343"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:16px;line-height:1.25"
+         id="tspan2993"
          y="94.357697"
-         id="tspan2993">Humorist, Writer, and Software Geek</tspan></text>
+         x="167.01343"
+         sodipodi:role="line">Humorist, Writer, and Software Geek</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times"
-       x="35.838017"
-       y="125.33633"
        id="text3167"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       y="125.33633"
+       x="35.838017"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:14px;line-height:1.25"
+         y="125.33633"
+         x="35.838017"
          id="tspan3177"
+         sodipodi:role="line">Website:  http://www.shlomifish.org/</tspan><tspan
+         style="font-size:14px;line-height:1.25"
+         y="142.83633"
          x="35.838017"
-         y="125.33633">Website:  http://www.shlomifish.org/</tspan><tspan
-         sodipodi:role="line"
          id="tspan3179"
+         sodipodi:role="line">Email:  shlomif@shlomifish.org</tspan><tspan
+         style="font-size:14px;line-height:1.25"
+         y="160.33633"
          x="35.838017"
-         y="142.83633">Email:  shlomif@shlomifish.org</tspan><tspan
-         sodipodi:role="line"
          id="tspan3181"
-         x="35.838017"
-         y="160.33633">Mobile:  +972-54-6232377</tspan></text>
+         sodipodi:role="line">Mobile:  +972-54-6232377</tspan></text>
     <image
+       sodipodi:absref="/home/shlomif/Docs/Images/Self/Self-Icons/EvilPHish-Icon/evilphish-monochrome-for-business-card-b-N-w.png"
+       xlink:href="../../../Self-Icons/EvilPHish-Icon/evilphish-monochrome-for-business-card-b-N-w.png"
        y="119.13364"
        x="256.92123"
        id="image3271"
        height="35.63802"
-       width="43.772785"
-       sodipodi:absref="/home/shlomi/Docs/Images/Self/Self-Icons/EvilPHish-Icon/evilphish-monochrome-for-business-card-b-N-w.png"
-       xlink:href="/home/shlomif/Docs/Images/Self/Self-Icons/EvilPHish-Icon/evilphish-monochrome-for-business-card-b-N-w.png" />
+       width="43.772785" />
     <text
-       xml:space="preserve"
-       style="font-size:11.83207035px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman, Italic'"
-       x="107.76579"
-       y="66.668816"
        id="text2997"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+       y="66.668816"
+       x="107.76579"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:11.8321px;line-height:1.25"
+         y="66.668816"
+         x="107.76579"
          id="tspan2999"
+         sodipodi:role="line">(“Shlomif” or “Rindolf”)</tspan><tspan
+         style="font-size:11.8321px;line-height:1.25"
+         id="tspan3001"
+         y="81.458939"
          x="107.76579"
-         y="66.668816">(“Shlomif” or “Rindolf”)</tspan><tspan
-         sodipodi:role="line"
-         x="107.76579"
-         y="81.4589"
-         id="tspan3001" /></text>
+         sodipodi:role="line"> </tspan></text>
   </g>
 </svg>
