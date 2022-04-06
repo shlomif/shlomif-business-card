@@ -75,13 +75,6 @@
          x="89.746185"
          id="tspan3157"
          sodipodi:role="line">Shlomi Fish</tspan></text>
-    <image
-       xlink:href="evilphish-monochrome-for-business-card-b-N-w.png"
-       y="131.00864"
-       x="276.92123"
-       id="image3271"
-       height="35.63802"
-       width="43.772785" />
     <text
        id="text2997"
        y="66.668816"
@@ -111,6 +104,16 @@
          y="94.357697"
          x="167.01343"
          sodipodi:role="line">Humorist, Writer, and Software Geek</tspan></text>
+    <g
+       id="g40"
+       transform="translate(-13.846581)">
+    <image
+       xlink:href="evilphish-monochrome-for-business-card-b-N-w.png"
+       y="131.00864"
+       x="276.92123"
+       id="image3271"
+       height="35.63802"
+       width="43.772785" />
     <text
        id="text3167"
        y="130"
@@ -184,5 +187,6 @@
 
 
 
+    </g>
   </g>
 </svg>
