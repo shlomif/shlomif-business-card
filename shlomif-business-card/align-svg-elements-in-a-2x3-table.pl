@@ -23,8 +23,19 @@ my $sy = 130;
 my $dy = 20;
 my @y  = map { $sy + $dy * $_ } 0 .. 2;
 @y = map { ($_) x 2 } map { ($_) x 2 } @y;
-$text =~ s%x="[^"]+"%x="@{[shift@x]}"%g;
-$text =~ s%y="[^"]+"%y="@{[shift@y]}"%g;
+
+sub replace
+{
+    my ( $label, $arr ) = @_;
+
+    $text =~
+s%(${label})="[^"]+"%$1="@{[(shift@$arr) // die qq#not enough in '$label'# ]}"%g;
+
+    return;
+}
+
+replace( 'x', \@x );
+replace( 'y', \@y );
 die if @x;
 die if @y;
 $_ = $text;
