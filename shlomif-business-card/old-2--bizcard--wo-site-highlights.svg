@@ -7,7 +7,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="old-2--bizcard--wo-site-highlights.svg"
    version="1.0"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:version="0.32"
    id="svg2"
    height="204.09448"
@@ -24,18 +24,18 @@
      id="defs4" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showgrid="false"
      inkscape:window-y="27"
-     inkscape:window-x="351"
-     inkscape:window-height="618"
-     inkscape:window-width="923"
+     inkscape:window-x="0"
+     inkscape:window-height="1029"
+     inkscape:window-width="1920"
      units="mm"
      height="54mm"
      width="94mm"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="102.16991"
+     inkscape:cy="102.1699"
      inkscape:cx="177.49517"
      inkscape:zoom="2.4958426"
      inkscape:pageshadow="2"
@@ -47,7 +47,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -67,30 +69,25 @@
     <text
        id="text3155"
        y="49.808773"
-       x="89.746185"
+       x="89.445435"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:32px;line-height:1.25"
          y="49.808773"
-         x="89.746185"
+         x="89.445435"
          id="tspan3157"
          sodipodi:role="line">Shlomi Fish</tspan></text>
     <text
        id="text2997"
-       y="66.668816"
-       x="107.76579"
+       y="71.144157"
+       x="106.38682"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-size:11.8321px;line-height:1.25"
-         y="66.668816"
-         x="107.76579"
-         id="tspan2999"
-         sodipodi:role="line">(“Shlomif” or “Rindolf”)</tspan><tspan
-         style="font-size:11.8321px;line-height:1.25"
          id="tspan3001"
-         y="81.458939"
-         x="107.76579"
-         sodipodi:role="line"> </tspan></text>
+         y="71.144157"
+         x="106.38682"
+         sodipodi:role="line">(“Shlomif” or “Rindolf”)</tspan></text>
     <text
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -107,86 +104,90 @@
     <g
        id="g40"
        transform="translate(-13.846581)">
-    <image
-       xlink:href="evilphish-monochrome-for-business-card-b-N-w.png"
-       y="129.00864"
-       x="276.92123"
-       id="image3271"
-       height="35.63802"
-       width="43.772785" />
-    <text
-       id="text3167"
-       y="130"
-       x="40"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:14px;line-height:1.25"
+      <image
+         xlink:href="evilphish-monochrome-for-business-card-b-N-w.png"
+         y="129.00864"
+         x="276.92123"
+         id="image3271"
+         height="35.63802"
+         width="43.772785" />
+      <text
+         id="text3167"
          y="130"
          x="40"
-         id="tspan3181"
-         sodipodi:role="line">Website:</tspan></text>
-    <text
-       id="text4546"
-       y="130"
-       x="110"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:14px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14px;line-height:1.25"
+           y="130"
+           x="40"
+           id="tspan3181"
+           sodipodi:role="line">Website:</tspan></text>
+      <text
+         id="text4546"
          y="130"
          x="110"
-         id="tspan4540"
-         sodipodi:role="line">http://www.shlomifish.org/</tspan></text>
-    <text
-       id="text4768"
-       y="150"
-       x="40"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:14px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14px;line-height:1.25"
+           y="130"
+           x="110"
+           id="tspan4540"
+           sodipodi:role="line">http://www.shlomifish.org/</tspan></text>
+      <text
+         id="text4768"
          y="150"
          x="40"
-         id="tspan4764"
-         sodipodi:role="line">Email:</tspan></text>
-    <text
-       id="text4658"
-       y="150"
-       x="110"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:14px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14px;line-height:1.25"
+           y="150"
+           x="40"
+           id="tspan4764"
+           sodipodi:role="line">Email:</tspan></text>
+      <text
+         id="text4658"
          y="150"
          x="110"
-         id="tspan4654"
-         sodipodi:role="line">shlomif@shlomifish.org</tspan></text>
-    <text
-       id="text5715"
-       y="170"
-       x="40"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:14px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14px;line-height:1.25"
+           y="150"
+           x="110"
+           id="tspan4654"
+           sodipodi:role="line">shlomif@shlomifish.org</tspan></text>
+      <text
+         id="text5715"
          y="170"
          x="40"
-         id="tspan5713"
-         sodipodi:role="line">Mobile:</tspan></text>
-    <text
-       id="text3694"
-       y="170"
-       x="110"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:14px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14px;line-height:1.25"
+           y="170"
+           x="40"
+           id="tspan5713"
+           sodipodi:role="line">Mobile:</tspan></text>
+      <text
+         id="text3694"
          y="170"
          x="110"
-         id="tspan3692"
-         sodipodi:role="line">+972-54-6232377</tspan></text>
-
-
-
-
-
-
-
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:14px;line-height:1.25"
+           y="170"
+           x="110"
+           id="tspan3692"
+           sodipodi:role="line">+972-54-6232377</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11.25px;line-height:0px;text-align:start;letter-spacing:-1.13438px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#aad400;fill-rule:evenodd;stroke-width:0.9375"
+       x="214.10606"
+       y="70.993057"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.9375"
+         x="214.10606"
+         y="70.993057" /></text>
   </g>
 </svg>
